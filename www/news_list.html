@@ -1,0 +1,56 @@
+    <ons-navigator var="nav">
+        <div ng-controller="NewsListCtrl">
+            <ons-toolbar>
+                <!-- <div class="left">
+                    <ons-toolbar-button ng-click="menu.toggleMenu()"><ons-icon icon="bars"></ons-icon></ons-toolbar-button>
+                </div> -->
+                <div class="center" size="25px">{{item.main_title}}</div>
+            </ons-toolbar>
+        
+            <div ng-if="!!success">
+        
+                <div ng-repeat="dtTop in data" ng-if="dtTop.id == '0'">
+                    <ons-list-header>
+                        <a ng-click="nav.pushPage('news.html',{data : dtTop})">
+                            <img class="image_top" src="{{dtTop.medium}}">
+                        </a>
+                    </ons-list-header>
+        
+                    <ons-list-item modifier="chevron" ng-click="nav.pushPage('news.html',{data : dtTop})">
+                        <div class="CardSome0">{{dtTop.title}}</div>
+                        <div class="text-top">{{dTop.date}}</div>
+                    </ons-list-item>
+                </div>
+
+                <ons-list class="border-line">
+                    <div class="CardOne">
+                        <!-- <ons-icon
+                            icon={{item.icon}}
+                            size="30px" 
+                            fixed-width="false"
+                            style="color: white">
+                        </ons-icon> -->
+                        {{item.sub_title}}
+                    </div>
+                </ons-list>
+        
+                <ons-list class="border-line" ng-repeat="dtSome in data" ng-if="dtSome.id !== '0'">
+                    <ons-list-header class="each_news_header">{{dtSome.date}}</ons-list-header>
+
+                    <div class="div-item-container"> </div>
+                    <ons-list-item modifier="chevron" class="list-item-container" ng-click="nav.pushPage('news.html',{data : dtSome})">
+                        <img class="image" src="{{dtSome.thumbnail}}">
+                        <section class="CardSome">{{dtSome.title}}</section>
+                    </ons-list-item>
+                </ons-list>
+        
+            </div>
+            <div ng-if="!success" style="text-align:center;">
+                <br>
+                <br>
+                <img src="images/loading.gif" width="65" height="65" alt=""
+                border="0" align="center" hspace="10" vspace="10"><br>Now loading...
+            </div>
+        
+        </div>
+    </ons-navigator>

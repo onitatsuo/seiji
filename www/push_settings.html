@@ -1,0 +1,58 @@
+<ons-page>
+    <div ng-controller="SettingPushCtrl">
+        <ons-toolbar>
+
+           
+            <!-- <div class="left">
+                <ons-toolbar-button ng-click="menu.toggleMenu()"><ons-icon icon="bars"></ons-icon></ons-toolbar-button>
+            </div> -->
+            <div class="center" size="25px">プッシュ通知設定</div>
+
+            {{data}}
+        </ons-toolbar>
+
+       
+        
+        <!-- <div ng-if="!!success">
+            <ons-list class="test-class" modifier="inset">
+                    <ons-list-item class="push_switch">
+                        プッシュ通知({{push_text}})
+                        <ons-switch modifier="list-item" ng-checked={{push_checked}} ng-model="push_checked" ng-change="onSwitchChange(push_checked)"></ons-switch>
+                    </ons-list-item>
+            </ons-list>
+            <ons-list class="test-class" modifier="inset">
+                <div ng-repeat="group in groups">
+                    <ons-list-header ng-click="toggleGroup(group)" class="title" ng-class="{active_top:isGroupShown(group)}">
+                        <label class="checkbox checkbox--list-head">
+                            <ons-icon icon="bars " size="140% " fixed-width="true"></ons-icon>
+                            {{group.title}}
+                            <!-- 全て取得にチェックがついていたら、チェックする？ --
+                            <input type="checkbox" disabled ng-checked="group.items[0].checked">
+                            <div class="checkbox__checkmark checkbox--list-head__checkmark checkar"></div>
+                        </label>
+                    </ons-list-header>
+                    
+                    <ons-list-item class="item-accordion" modifier="tappable" ng-repeat="item in group.items" ng-show="isGroupShown(group)">
+                        <label class="checkbox checkbox--list-item"> 
+                            {{item.name}}
+                            <!-- 全て（ALL）選択時、他を選択不能に -->
+                            <!--<input type="checkbox" disabled=disabled ng-checked="item.checked" ng-model="item.checked" ng-if="group.items[0].checked && item !== group.items[0]">-->
+                            <!-- 全て（ALL）選択されていない時 -->
+                            <!-- <input type="checkbox" ng-checked="item.checked" ng-model="item.checked" ng-if="!group.items[0].checked || item === group.items[0]"> --
+                            <input type="checkbox" ng-checked="item.checked" ng-model="item.checked">
+                            <div class="checkbox__checkmark checkbox--list-item__checkmark checkar"></div>
+                        </label>
+                    </ons-list-item>
+                </div>
+            </ons-list>
+            <br>
+            <ons-button var="save_btn" ng-click="onSaveSetting()">設定保存</ons-button>
+        </div>
+        <div ng-if="!success" style="text-align:center;">
+            <br>
+            <br>
+                <img src="images/loading.gif" width="65" height="65" alt=""
+                border="0" align="center" hspace="10" vspace="10"><br>Now loading...
+        </div>
+    </div> -->
+</ons-page>

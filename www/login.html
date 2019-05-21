@@ -1,0 +1,47 @@
+<!--<ons-page ng-controller="DialogControll">-->
+<ons-template>
+        <ons-dialog var="dialoger" cancelable>
+            <ons-toolbar inline>
+                <div class="center">
+                    Dialog
+                </div>
+            </ons-toolbar>
+
+            <h4>Switch</h4>
+            <div id="switch">
+                <label class="switch">
+                    <input type="checkbox" class="switch__input">
+                    <div class="switch__toggle"></div>
+                </label>
+            </div>
+
+            <h4>Segment</h4>
+            <div id="segment" class="button-bar">
+                <div class="button-bar__item">
+                    <input type="radio" name="segment-a" checked>
+                    <button class="button-bar__button">One</button>
+                </div>
+                <div class="button-bar__item">
+                    <input type="radio" name="segment-a">
+                    <button class="button-bar__button">Two</button>
+                </div>
+                <div class="button-bar__item">
+                    <input type="radio" name="segment-a">
+                    <button class="button-bar__button">Three</button>
+                </div>
+            </div>
+
+            <h4>Radio Button</h4>
+            <label class="radio-button">
+                <input type="radio" name="r" checked="checked">
+                <div class="radio-button__checkmark"></div>
+                Label1
+            </label><br>
+            <label class="radio-button">
+                <input type="radio" name="r">
+                <div class="radio-button__checkmark"></div>
+                Label2
+            </label><br>
+        </ons-dialog> 
+</ons-template>
+<!--</ons-page>-->

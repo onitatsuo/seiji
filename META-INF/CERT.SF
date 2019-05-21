@@ -1,0 +1,755 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 8wkin67lQVsDXH9yqVMhbQO9DOk=
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: +TYy8goS/s7APtthqzt9aXBYLEI=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: hj1AY+H6pE2McUPzsFA1Wwu3nIQ=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: GHZ0WF7sh5tzOuMH0rU9UpoEeJg=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: U5TdMp2zphtmlpWCdW1Z+FJ2o4A=
+
+Name: assets/www/components/monaca-onsenui/css/onsen-css-components-de
+ fault.css
+SHA1-Digest: fNf8u90PASjaHunxk1r/t0cLhTQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: uJ2DS4EIaeC1oq2u0cMJassraFM=
+
+Name: assets/www/components/monaca-onsenui/css/font_awesome/css/font-a
+ wesome.css
+SHA1-Digest: CrH/eg6K0FgV7XdpMjnRvR8KS4E=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: ofakGPbpsipAkNSIwW0MLvnk/O8=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: ktr8MBNUEm5dVFTpIrg0HCypcLQ=
+
+Name: res/drawable-land-hdpi-v4/icon.png
+SHA1-Digest: 6pfUEkoDfKpievntnGj+HKcUB9k=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_light.9.pn
+ g
+SHA1-Digest: k5MOcAliy5dGNVM2ei1u0A/sKl8=
+
+Name: assets/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.
+ js
+SHA1-Digest: P6BJrOG1TYXQJG36iDgNYw6bmSs=
+
+Name: assets/www/js/controller/test/testcontroller.js
+SHA1-Digest: vxXwyQHltSbaLIJsN1fuR7tUUeU=
+
+Name: res/drawable-xxhdpi-v4/ic_action_remove.png
+SHA1-Digest: 9Utk4+aXETSKYQP8/+rs1q75Fn8=
+
+Name: assets/www/components/ncmb/bower.json
+SHA1-Digest: YNSfobDtXGnJBpt6kMowg7QtpCo=
+
+Name: assets/www/plugins/cordova-plugin-dialogs/www/notification.js
+SHA1-Digest: 1bcApBJ/gUkDB2j2J8CaJl+TetY=
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA1-Digest: DyNoltEL4yj1M0KRnp7t1ESe+Fo=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: yxa0UeGLYNHkuR3OEDiNjcUTK20=
+
+Name: assets/www/components/monaca-onsenui/css/font_awesome/fonts/font
+ awesome-webfont.woff
+SHA1-Digest: vCn8VV29TQ1WcIC1OE68YMyHD8I=
+
+Name: assets/www/components/monaca-jquery-mobile/css/jquery.mobile.the
+ me.css
+SHA1-Digest: GS6dLQiyKZe278EmHcBc+6k58Gs=
+
+Name: assets/www/components/monaca-onsenui/css/ionicons/css/ionicons.c
+ ss
+SHA1-Digest: A8vAQ1y0M/RICpvQxAjQ3wh9Ui8=
+
+Name: res/drawable-xxhdpi-v4/ic_action_next_item.png
+SHA1-Digest: VCkMmGnd+0Re/Zh47VJcIYoV8xY=
+
+Name: assets/www/components/monaca-jquery-mobile/css/images/icons-36-b
+ lack.png
+SHA1-Digest: PwMkDzUWJB4SrmzkuNN4MpOaLDE=
+
+Name: assets/www/components/monaca-onsenui/bower.json
+SHA1-Digest: Q1M0IIcFCq65B0bu3WIdAqzU+KQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: 52wNZqRHAPnDD55A0qr2nildLKo=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: WQ4D80mKWq/wfgMQ6utw1gMrxig=
+
+Name: assets/www/plugins/cordova-plugin-network-information/www/networ
+ k.js
+SHA1-Digest: 5CZFf5zIK7yEXAgJs6hQnXOMhoY=
+
+Name: assets/www/js/controller/test/old/page2controller.js
+SHA1-Digest: JU1s5kqkGaYG41wNWVMpqqdxREk=
+
+Name: assets/www/js/controller/test/old/page1controller.js
+SHA1-Digest: 6Rqugm5SNY98AATOdc1Hq/G7PiY=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: YHDanKY+etGHl1tpUEqaw7g8AVM=
+
+Name: res/drawable-mdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: csN7rcJ7m6ep4DDfE8OKtRI2t5Y=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: BTeLuLdg5icJMgMtSDAKBZt9ygk=
+
+Name: resources.arsc
+SHA1-Digest: GG+bvacdpx04v3CzsZgIx41Kze0=
+
+Name: assets/www/plugins/cordova-plugin-dialogs/www/android/notificati
+ on.js
+SHA1-Digest: 2boqPnuoh6dEZ9ZY6Pzkz1tXclk=
+
+Name: assets/www/components/monaca-onsenui/css/onsen-css-components-da
+ rk-theme.css
+SHA1-Digest: Qd49+thCS8MeX6YftrCtXCyTZFM=
+
+Name: res/drawable-mdpi-v4/ic_action_previous_item.png
+SHA1-Digest: V4xdGX7AIrCXT0Ii5jKxZlGz/aE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Z0mr86HGEalQ1NJlOhbrydNv3TM=
+
+Name: assets/www/components/monaca-onsenui/js/angular/angular.js
+SHA1-Digest: gZhWyBQDGb/bQ6zjMH675js/xdU=
+
+Name: assets/www/js/controller/newscontroller.js
+SHA1-Digest: sADmHbMIVFKwN9pifUQTgmKJf9M=
+
+Name: assets/www/js/service/jsservice.js
+SHA1-Digest: txiC84DZFHx3j8VAoebFchTSNRw=
+
+Name: assets/www/components/monaca-onsenui/js/angular/bower.json
+SHA1-Digest: FJBCCQn9hnUwhZQbOPFabhV+9b8=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: urCCQiFN4zwRh/dWKyuxmMLdiO0=
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA1-Digest: 38WtpiAj5vmsHOuyTUe8kYOXH14=
+
+Name: res/xml/config.xml
+SHA1-Digest: 86yh3KqQlC/RVF1FGkU7gdoCewA=
+
+Name: assets/www/components/monaca-onsenui/js/angular/angular.min.js
+SHA1-Digest: TEeZWX7G1JQkw8f0xS7pL2U88zU=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: dmMebl/IZfmzRjJSrqewPF7ZptM=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: EnithPaNXwOv/zCX3978PlhGGW0=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_light.9.pn
+ g
+SHA1-Digest: Nr4OZTMs+CD3CJ66ijihMYlQ/CM=
+
+Name: assets/www/js/controller/test/old/page1.html
+SHA1-Digest: lVqjgwVjFo6pFB6LTbcbEwZnHfo=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: ZEEsXmeNi1geqYcaE8zpEqIuRiw=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: Eg+tT/t4WpGjfmTKq9KG0JTWonw=
+
+Name: res/drawable-port-ldpi-v4/icon.png
+SHA1-Digest: 36gKl4fu5gPLyzm+W1Cyf8YLg74=
+
+Name: res/drawable-land-xxhdpi-v4/icon.png
+SHA1-Digest: 5s5tJuWKA9R3Y2Do5q/400+Itjo=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: 8WSUJI4V8zSfLbKSu/Jez3l7A70=
+
+Name: assets/www/components/monaca-onsenui/css/onsenui.css
+SHA1-Digest: Y1gNYwEYwnour64wfnKIrc268pU=
+
+Name: res/drawable-xhdpi-v4/ic_action_remove.png
+SHA1-Digest: EhvoyAdNZQu17Um9w6vEbO8Q4yc=
+
+Name: res/drawable-tvdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: GMToIPKJZ6dP2YfwzeX8PFt6UWI=
+
+Name: assets/www/components/monaca-jquery-mobile/jquery.mobile.js
+SHA1-Digest: CFQ0u1FrPs4ViAbXa4ImxiVDubc=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: MUmLX81uNe70nYdmMFkejZPmCjE=
+
+Name: assets/www/components/ncmb/ncmb.min.js
+SHA1-Digest: a7jlyuXPYOikiocufFwKai3jEkk=
+
+Name: res/drawable-hdpi-v4/ic_action_next_item.png
+SHA1-Digest: if3MCCMitp+rQkSVaFJf812cKSw=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: QwiM3Q2FP7ZYDaB04oy3gDzhBto=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 8+niuO9OhNqCIJJHSXmAIepAde4=
+
+Name: assets/www/components/ncmb/README.md
+SHA1-Digest: y9kmppQbxembdvWie65mIYjSNKk=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: 9/NkNFAoQ9J+Xc8BJdrV30L3GKA=
+
+Name: assets/www/components/monaca-onsenui/js/angular/index.js
+SHA1-Digest: IpVgcAXpHYZhK29bfrnk8836hTo=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_dark.9.pn
+ g
+SHA1-Digest: 1ySqFlFUFUZSrpFiPfTuz3yUqfo=
+
+Name: assets/www/test.html
+SHA1-Digest: kykrF00UYvVhc52cyp93dlXj3h4=
+
+Name: assets/www/cordova.js
+SHA1-Digest: swmHvHBtfbkh8Qr+LHv3yzd102o=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: Sj+IuQPXah6kDiq/4s1Z3203zXU=
+
+Name: assets/www/js/controller/test/old/page3.html
+SHA1-Digest: csuhlhrLmYUdLu+IS7hm6wBer7M=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: w4ndgg6BiKguBZFQdX9FnzMb1sA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_dark.9.pn
+ g
+SHA1-Digest: y+oQr4Zrl8S8RxwV1qWl3a24J2g=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: z2jLKNjKsqeE9hE9ZTnNlsplmEg=
+
+Name: assets/www/menu.html
+SHA1-Digest: hHPzzMfcXeKAODiNIhvM4fDiIoU=
+
+Name: res/drawable-land-mdpi-v4/icon.png
+SHA1-Digest: aKLCTFoiXBYUQXCDFaPpn2SK/ck=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_light.9.p
+ ng
+SHA1-Digest: 2Wz4MP+WvtH3G6GWOk7aA3RsMCQ=
+
+Name: assets/www/test2.html
+SHA1-Digest: 3QAVpB9O6ShXVWD1VJm4m742pCQ=
+
+Name: res/drawable-port-xxxhdpi-v4/icon.png
+SHA1-Digest: k9/Msi8/0L2pHyW3V8NcDx9QP3Q=
+
+Name: res/drawable-land-xxxhdpi-v4/icon.png
+SHA1-Digest: 8rG37j9IIooN4tz+Z/Fd/EI3YVY=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: iIEXDHTYfBZsmWxNMdLzb6ywMDg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: iCG6BXrh1Ff2qUGMGBMeCg4qjsU=
+
+Name: assets/www/components/monaca-onsenui/css/ionicons/css/ionicons.m
+ in.css
+SHA1-Digest: CD+LsMQz4rF7VUEcwKpw4b5xqac=
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA1-Digest: JIRUfP79NI5t078vJIq/tww/QEA=
+
+Name: assets/www/components/monaca-jquery-mobile/css/jquery.mobile.str
+ ucture.css
+SHA1-Digest: 9rl32Toem0JHv8Y1OqqCM/XnRNU=
+
+Name: assets/www/news.html
+SHA1-Digest: Tf/S10x+yrOWT4ZxpIckGfrygEE=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: Ge336qvciY3KeguVQTsX1YhVg7U=
+
+Name: assets/www/js/controller/test/old/page3controller.js
+SHA1-Digest: SKYhgAQoxpvJvTxHULu+9uuXNN8=
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.
+ js
+SHA1-Digest: jw+JIGD50/dzADr8EO+DH7thtIo=
+
+Name: assets/www/components/loader.js
+SHA1-Digest: aX3y4lxOlSRSeUMScONNJIA/FXg=
+
+Name: assets/www/components/monaca-onsenui/css/ionicons/fonts/ionicons
+ .svg
+SHA1-Digest: ehP6hYXKTzzyTKldie3iDYL9PRs=
+
+Name: assets/www/js/controller/test/old/page4controller.js
+SHA1-Digest: 5GGVG6he9tfSerQwpsRtLPVyADM=
+
+Name: assets/www/components/monaca-onsenui/css/onsen-css-components-bl
+ ue-theme.css
+SHA1-Digest: bXGKPnGFej/ONybSZe3OAZIe4Ns=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: TnTUX6LREg+EPdgP4BMTP/XSDWM=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: PvS65iz0+hMrZVvNdPcYGYBkAvs=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: i8egErsWBYxdoMaMFY/lt8qYhoE=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_dark
+ .9.png
+SHA1-Digest: qqTJ4qjC9XYJ9/jUd+ZQk2kZYS8=
+
+Name: assets/www/components/monaca-onsenui/css/onsen-css-components.cs
+ s
+SHA1-Digest: BU7DuhqExAmt1AINFjtMaYmbtp0=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: KlYGCkXIj3psUaTxZq9FQSu62JM=
+
+Name: assets/www/img/logo.png
+SHA1-Digest: YK5vVHXnrWkBUKYiYlRwAZZ/zWU=
+
+Name: assets/www/components/monaca-jquery-mobile/css/images/icons-18-w
+ hite.png
+SHA1-Digest: POq6F9b2rTTeOgRWlYio/cdBYt4=
+
+Name: res/drawable-mdpi-v4/ic_action_remove.png
+SHA1-Digest: Xm1eOMvIE8MEYmU9ms+pWE8RPv0=
+
+Name: assets/www/components/monaca-onsenui/js/angular/angular.min.js.g
+ zip
+SHA1-Digest: iUF7wt+tdjL1y/NzGXC8Anl1+Rk=
+
+Name: assets/www/components/monaca-jquery/jquery.js
+SHA1-Digest: uUfZJJZz3y0M9We86B7omd54VJk=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: MfFtt0QW7Zq6IpKmoDVrPPYHtnc=
+
+Name: assets/www/components/monaca-onsenui/css/onsen-css-components-bl
+ ue-basic-theme.css
+SHA1-Digest: tX5uhLRclYVSzuB/fUDF+Vi0Uu8=
+
+Name: assets/www/components/monaca-onsenui/js/onsenui_all.min.js
+SHA1-Digest: TIDsi9IJR06DEvUItv1iPkf6A8w=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: vJY1lboKceEi5AXBkFVM8xoysRs=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: am6e9g4ZxkzrNl0kYCI9SErpqwY=
+
+Name: assets/www/js/controller/test/old/pagecontroller.js
+SHA1-Digest: ehqXs9s3hvx5CLt7+R4CR4osHOY=
+
+Name: assets/www/js/controller/test/old/page2.html
+SHA1-Digest: r1BZmcm51f+E7fr2B00MQ8Twkec=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: vaBFRXPzebcTp2nl0UTmAq6JgFM=
+
+Name: assets/www/js/index.js
+SHA1-Digest: DE+MUB4G28G3R+yy9e8WfCNjj90=
+
+Name: assets/www/plugins/cordova-plugin-whitelist/whitelist.js
+SHA1-Digest: U1DY0ekXzhw6MT6YlRNBEXuOKoM=
+
+Name: assets/www/js/controller/test/fringcontroller.js
+SHA1-Digest: SrEHnynJzOjMv/Y0vuZz7YDZTNU=
+
+Name: assets/www/components/monaca-onsenui/css/font_awesome/fonts/font
+ awesome-webfont.ttf
+SHA1-Digest: l4/0G1E8hf7F78Y6Wyx6uKuEVhs=
+
+Name: assets/www/components/monaca-cordova-loader/cordova-loader.js
+SHA1-Digest: 2yGYfZoi+PW2X8xzcJ0BxydjNYE=
+
+Name: assets/www/components/monaca-onsenui/js/onsenui.js
+SHA1-Digest: NJu4JrM4mnaf+e0+N45jpi7jokc=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: yT6sfaTIb8IYSujsqfuSSRMQz90=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: VuHWq27PyWkd47nI6G0Qt94zrmk=
+
+Name: assets/www/components/monaca-onsenui/js/onsenui_all.js
+SHA1-Digest: wreKE8+HiVBBbVBymMsdCqWVUeU=
+
+Name: assets/www/news_list.html
+SHA1-Digest: cNoHngEkXqh93CFF0u9bzQfK8ms=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: WXE9Fo9f8jTxZ9ixisfOf2jGeRw=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: QY63hHQDgqUN6ajGwNrdPzBdXi0=
+
+Name: assets/www/components/monaca-core-utils/bower.json
+SHA1-Digest: +GtQg6aatAgMBOAA7PO1zhN9NLw=
+
+Name: assets/www/components/monaca-jquery-mobile/css/images/ajax-loade
+ r.gif
+SHA1-Digest: n78bQ55IjRoP8sHC25kLmrLltyw=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: xcTN0BptV8zhNDPGrIosM/qYW1o=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_dar
+ k.9.png
+SHA1-Digest: HnX1iCzxlGqHfnF3q+JwLt/NWfw=
+
+Name: res/drawable-port-hdpi-v4/icon.png
+SHA1-Digest: 8kamCqc8WCCPYgD7gIeIVal5Q1g=
+
+Name: assets/www/js/controller/test/test2controller.js
+SHA1-Digest: GIC5hLbvdDdppmDFhPLeRJv7Phw=
+
+Name: assets/www/index.html
+SHA1-Digest: cDs5LSRvoeCOGIkhSYakxiodM5Y=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: oCmT+PkD6Q6fj4015q1g9/We2iA=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: x1SaIflLE5ETIZBY9NPET+yiGu8=
+
+Name: assets/www/plugins/cordova-plugin-network-information/www/Connec
+ tion.js
+SHA1-Digest: 1gtjMnQbAGhLIA8Ye9nuw/rzMqE=
+
+Name: assets/www/plugins/mobi.monaca.plugins.Monaca/www/monaca.js
+SHA1-Digest: chwHGnxCuwO4lC1iubGuycvEAWQ=
+
+Name: assets/www/images/no_img.png
+SHA1-Digest: 8BKX75g1SC+M5WERNGe0f5i5Gho=
+
+Name: assets/www/components/monaca-onsenui/js/angular/package.json
+SHA1-Digest: 68o3bXgIyI/HSvaKPaqqVmjkQac=
+
+Name: assets/www/js/controller/maincontroller.js
+SHA1-Digest: IeVmoHAy9uSMJeU7JnmsH97ybTU=
+
+Name: assets/www/css/index.css
+SHA1-Digest: N6YHp1iN/uYTIqkQjm7UYE+rVzU=
+
+Name: res/drawable-port-xxhdpi-v4/icon.png
+SHA1-Digest: fZk2ZndcLg2Gws6Nfhp/vFbLxMU=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: MKZrWw9zH8dn9/6Dy2wTfm/rT/w=
+
+Name: assets/www/components/monaca-onsenui/css/ionicons/fonts/ionicons
+ .ttf
+SHA1-Digest: hnrW0D1FYd+5W4/MydyWZ85GtX8=
+
+Name: assets/www/components/monaca-onsenui/css/onsen-css-components-pu
+ rple-theme.css
+SHA1-Digest: yQTxqizNqdDoUhqsTSbUqCWAERY=
+
+Name: assets/www/components/monaca-jquery/bower.json
+SHA1-Digest: D4WKtDXgqVvKIpYY2LepQ8Hougg=
+
+Name: assets/www/components/ncmb/LICENSE
+SHA1-Digest: os9VCsOQo3CR06XecpbDKc6N5OE=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: 1ZGPnFQYex6yv416YvcOb67P5l8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: 8KwAgeweT8yIIKMb+5lX0KAHePk=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: gqWhLpoL32cQAWuhI+HWorR8liQ=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: WPTWH7XeNc+LWr/cyp92Pruzwh0=
+
+Name: assets/www/components/loader.css
+SHA1-Digest: N3h+MJmo9l0IgqI3lh7nWUM+z1w=
+
+Name: assets/www/js/controller/settingcontroller.js
+SHA1-Digest: JjBlSipMknHMINgpOEHIvno7+RE=
+
+Name: assets/www/components/monaca-onsenui/css/font_awesome/css/font-a
+ wesome.min.css
+SHA1-Digest: y9X1ZIv3f/4ThkOOax+l+QoNFJM=
+
+Name: assets/www/README.md
+SHA1-Digest: m4UCZuMWx2ekFBhf1w9Jqy4OfWw=
+
+Name: assets/www/components/monaca-core-utils/monaca-core-utils.js
+SHA1-Digest: A7gFYK7BaiMLFQJ8HzrS1dUoXzI=
+
+Name: res/drawable-mdpi-v4/ic_action_next_item.png
+SHA1-Digest: ZzISkM7wLyAw7HkVAX3PN79mc5w=
+
+Name: assets/www/plugins/plugin.push.nifty/www/nifty.js
+SHA1-Digest: PVQHCcVmENFlowIkiI1vsUXd5HM=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: QO1roDghjeIqS8g0UX3N2i2Rq40=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_dar
+ k.9.png
+SHA1-Digest: b7p49PePpoiSa638M7tjwGcWek8=
+
+Name: assets/www/components/monaca-cordova-loader/bower.json
+SHA1-Digest: apz9zo9FwDYGOTHqYMBaO+4eCp0=
+
+Name: assets/www/components/monaca-onsenui/js/angular/angular.min.js.m
+ ap
+SHA1-Digest: /nb31nw/g4kcWwgZXcmDj/wOxsI=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: a8iNR3D9xvqUZmDYCWUiN6Xfxpw=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: f7JyZZ2vrANe5lI7V6yhxHozjrQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: QanEICwk4+RwG05Ug5mOvoF8ZV8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: FF9x9wlSkPYra0pZDSr03ISir98=
+
+Name: res/drawable-land-ldpi-v4/icon.png
+SHA1-Digest: tem9ugsPpkIdp4LNAdEeUmg0M/s=
+
+Name: res/drawable-xhdpi-v4/ic_action_previous_item.png
+SHA1-Digest: uG+ZFVmiP0FBZK49mU+oFNFtrpk=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: ClT9ohpd+XCoBAr8cxSvgMKPNWE=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: WkHTJXRyWdHGbuBmj37cLr2Wcak=
+
+Name: assets/www/components/monaca-onsenui/css/font_awesome/fonts/font
+ awesome-webfont.svg
+SHA1-Digest: YwHExj7MX0CvH0sP5S33xwXHR9c=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: XW516Uvxq8PEuDKhUHNJJxA4A4A=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: SdABwwyx8OOuUrr9WS6mbyJsXgg=
+
+Name: assets/www/cordova-js-src/exec.js
+SHA1-Digest: zSlTRU8HxUISyyqDCPgSSJgcj+g=
+
+Name: res/drawable-port-xhdpi-v4/icon.png
+SHA1-Digest: 1A5ERDzL0Aub3Fn60HV21v3T0Vg=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: PNXulXQTonk6XVhRPpycQtNbaYQ=
+
+Name: assets/www/components/monaca-onsenui/js/onsenui.min.js
+SHA1-Digest: 0BwBaO0abRZ4pjFQBIeQ2hToe34=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: DPExXzpS+kqB1jXSG7OscxCxeLI=
+
+Name: res/drawable-xxhdpi-v4/ic_action_previous_item.png
+SHA1-Digest: MMQuqfVCNxhbSTH40JlRn05/z90=
+
+Name: assets/www/components/monaca-onsenui/css/font_awesome/fonts/Font
+ Awesome.otf
+SHA1-Digest: /XeEZpVM14JwGqpOcAwMbO2TMhw=
+
+Name: assets/www/cordova-js-src/platform.js
+SHA1-Digest: jhTd/JA3fGuFyrGiPD9GvA2uCrs=
+
+Name: assets/www/images/location1.png
+SHA1-Digest: MQj0Sme0ZZKAbcQCOZ6E1o192Ng=
+
+Name: assets/www/components/monaca-jquery-mobile/bower.json
+SHA1-Digest: ItzxIODu8mHcpdvwRDkOqJcaVDY=
+
+Name: assets/www/components/monaca-jquery-mobile/css/images/icons-18-b
+ lack.png
+SHA1-Digest: Yvq8sistsYvaWfF/QE9Wgdgk1h8=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: 2ZYX3xvl4D5jCEoBs0t4WPeiC8g=
+
+Name: assets/www/components/monaca-onsenui/css/font_awesome/fonts/font
+ awesome-webfont.eot
+SHA1-Digest: 1P6qMXMWCxXnGC6XfphI1xkXloI=
+
+Name: assets/www/js/controller/test/old/page4.html
+SHA1-Digest: FkvDIGwaeqrBD791We2C9KI9iJ4=
+
+Name: assets/www/css/style.css
+SHA1-Digest: oqbU2MKlPoSCDFvkN/CjLBTgr+s=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_light.9.p
+ ng
+SHA1-Digest: 3J0lPq0PiYktI7XoqyTkLPmgUZ0=
+
+Name: assets/www/components/monaca-onsenui/css/onsen-css-components-su
+ nshine-theme.css
+SHA1-Digest: pcVS0hgbdw0jOT398hysbg3vY+A=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: jeu5ig2PAsCT43VEEAkZS2PnKG8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: 0ES2/vkCI06f+20uSMpSJ8vhfQI=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: walV1ZTNBAlTKYzs5tcTprhdBYw=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: s4QTzl3FN8vCu33vo96hrnJ16Aw=
+
+Name: assets/www/login.html
+SHA1-Digest: uyvEN6BoArxV3iNhNp2/lAwXOXk=
+
+Name: assets/www/components/monaca-jquery-mobile/css/images/icons-36-w
+ hite.png
+SHA1-Digest: 9seXMB5E0soR3aJsFKzlPa5iWcw=
+
+Name: assets/www/category_settings.html
+SHA1-Digest: bYyy1dVRpDz3C99Z3f7anaQQo30=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: VVcFa/aosM3nzX+HNn6iJ+KmmZw=
+
+Name: res/drawable-hdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: UqSluOdV17H1oaatvoTeX6R2/9A=
+
+Name: assets/www/components/monaca-onsenui/js/angular/angular-csp.css
+SHA1-Digest: tVLwG30c9bcWn/6iIDlh2YgO1Ho=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: ru60urGKBaKgdlnePkQ7FXcU+e8=
+
+Name: res/drawable-hdpi-v4/ic_action_previous_item.png
+SHA1-Digest: M1GfB2VNcCSehXeSgRHXvHxnf3E=
+
+Name: res/drawable-xxhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: K8sBLrvhsQxKS5inh5akH60vGrk=
+
+Name: res/drawable-land-xhdpi-v4/icon.png
+SHA1-Digest: +bhgIxuKvxSj5Gf446PGfOZgvIo=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: pc/EfNiDz26r2JW/n5Enn4/97/Q=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: g5S6R1opYY+HU/2yYAXdZfPeC3k=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: hxPASbF5x5tvNzqB2Sbskdk6Aik=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.pn
+ g
+SHA1-Digest: at/fquKFtB3/7Ony84wbrIbGm8E=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: VuaZJTj5+et64w2G22v/p56XepA=
+
+Name: res/drawable-xhdpi-v4/ic_action_next_item.png
+SHA1-Digest: vId0P8iSrMw9IbpTh7JhARxcbHc=
+
+Name: assets/www/push_settings.html
+SHA1-Digest: rxWqW9w0dnlsyvBl+ELUMUPoPJs=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: j0aG6+UG2uOca2C4AVd8ag7DPbs=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: DfBRJWNOpJP1gSeHEKS7qA68w1k=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_dark
+ .9.png
+SHA1-Digest: dRkuYXj05w5nmXKGQHikqdJRV/8=
+
+Name: assets/www/components/monaca-jquery-mobile/css/jquery.mobile.css
+SHA1-Digest: 2JnCW9IOrsmnKlWzQZuSyEHIkn8=
+
+Name: assets/www/components/monaca-onsenui/css/ionicons/fonts/ionicons
+ .eot
+SHA1-Digest: RxhuyKLbe3su7Yy50mpwvzUd5os=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_light.9.pn
+ g
+SHA1-Digest: mcOJ3cBZioIRCXaDtOmeYU8Xjr4=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: h8OXyDRCk3boAFYIQfDqBpNpcKo=
+
+Name: assets/www/images/loading.gif
+SHA1-Digest: cn/vJISxsHF8rwstlu2EzSzPlzQ=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: iBZi/wy4SHbuNFDBRj+IH59ZgE8=
+
+Name: res/drawable-port-mdpi-v4/icon.png
+SHA1-Digest: wgbS7utf7DYnQu14BM7dcF8BAf0=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: JlX+gZy2y/W0JSuIaKGia5hn+kk=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: 4Tm2PenDNchFZkDLYXx0Umi2LH0=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: g/EA9y87XivuPGfsEBhycw99ihE=
+
+Name: assets/www/components/monaca-onsenui/css/ionicons/fonts/ionicons
+ .woff
+SHA1-Digest: Gdf9W5Q6Gsh+rSFYSujWWiDNwEM=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: gwDdmi37+XfPMHpBwwEGHRLYh2I=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: dvQZkTBlOMeaeqLbf9+kDfZaZcM=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 964nFsIzgsBDxuh+dvKUrezdjqU=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: IQn6ReCnu8JpwPcPoxVca5pqF/c=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: sQHE6IQziNSTxVMBL3yAa2hXDXk=
+
+Name: res/drawable-hdpi-v4/ic_action_remove.png
+SHA1-Digest: 4yiGHHAsMSLLJvngmTVlLn1qOUI=
+
+Name: classes.dex
+SHA1-Digest: LJCO8ZZcVFfpdN3rzcGejcb/cEE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: I9qbcSSf/KTYWorvWQ2fffF+RNU=
+

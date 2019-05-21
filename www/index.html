@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta http-equiv="Content-Security-Policy" content="default-src * data:; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'">
+	<script src="components/loader.js"></script>
+	<link rel="stylesheet" href="components/loader.css">
+	<link rel="stylesheet" href="css/style.css">
+
+
+
+	<script>
+		var app = ons.bootstrap();
+           // var application_key = "92f20f04bb9ba2727c322e9d0221680aee305001136206e959ab59e7b11af0b7";
+          //  var client_key = "b580c0718c8eb7a8cdd25c6d4f5343530dd86a3254a8784500e300011fe8e618";
+            var ncmb = new NCMB("92f20f04bb9ba2727c322e9d0221680aee305001136206e959ab59e7b11af0b7","b580c0718c8eb7a8cdd25c6d4f5343530dd86a3254a8784500e300011fe8e618Y");
+
+	</script>
+
+
+
+	<script src="js/controller/maincontroller.js"></script>
+	<script src="js/service/jsservice.js"></script>
+	<script src="js/controller/pagecontroller.js"></script>
+	<script src="js/controller/newscontroller.js"></script>
+	<!-- ここまで必須 -->
+	<script src="js/controller/settingcontroller.js"></script>
+</head>
+
+
+
+
+<body link="#ffffff" alink="#ffffff" vlink="#ffffff">
+
+	<div ng-controller="MainCtrl"></div>
+	<ons-page>
+	<ons-navigator>
+		<ons-modal var="setModal" class="mobalStyle">
+			<div class="dialog">
+				<p class="dialogText">
+					<img src="images/loading.gif" class="dialogImage" alt="NowLoading"><br> ただいま通信中です。
+					<br>もうしばらくお待ちください
+				</p>
+			</div>
+		</ons-modal>
+
+	<!--- can't remove the below line without the app breaking----->
+		<ons-sliding-menu var="menu" menu-page="menu.html" main-page="tabbar.html" side="left" type="push" max-slide-distance="0px">
+		</ons-sliding-menu>
+
+
+		<ons-template id="tabbar.html">
+			<ons-tabbar var="tabbar">
+				<ons-tab page="news_list.html" label="ALL" icon="fa-minus-square" active="true"></ons-tab>
+				<ons-tab page="news_list.html" label="注目選挙" icon="fa-bullhorn"></ons-tab>
+				<ons-tab page="news_list.html" label="政治" icon="fa-users"></ons-tab>
+				<ons-tab page="news_list.html" label="社会・国際" icon="globe"></ons-tab>
+				<!-- <ons-tab page="push_settings.html" label="設定" icon="fa-bell" no-reload=""></ons-tab> -->
+			</ons-tabbar>
+		</ons-template>
+
+
+<!-- it doesn't work -->
+     <!-- <ons-template id="side.html">
+      	<ons-tabbar var="sidebar">
+				<ons-tab page="sidebar.html" label="ALL" active="true"></ons-tab>
+				<ons-tab page="sidebar.html" label="一般設定" ></ons-tab>
+				<ons-tab page="sidebar.html" label="会社案内" ></ons-tab>
+				<ons-tab page="sidebar.html" label="アプリについて"　></ons-ta>
+			</ons-tabbar>
+		</ons-template>  -->
+
+
+
+	</ons-page>
+	</ons-navigator>
+</body>
+
+</html>

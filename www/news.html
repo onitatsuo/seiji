@@ -1,0 +1,26 @@
+    <ons-page>
+        <div ng-controller="NewsCtrl">      
+            <ons-toolbar modifier="transparent">
+                <div class="left" style="margin-top:5px">
+                    <ons-button modifier="quiet"  ng-click="nav.popPage()">
+                        <ons-icon icon="fa-chevron-left" fixed-width="false" style="color: #ffff">戻る</ons-icon>
+                    </ons-button>
+                </div>
+            </ons-toolbar>
+        
+            <ons-list>
+                <ons-list-header>
+                    <img class="image_top" src="{{data.medium}}">
+                </ons-list-header>
+            </ons-list>
+            
+            
+            <h2 class="news-head-title">{{data.title}}</h2>
+            <div class="news-date">{{data.date}}</div>
+            <div class="name"></div>
+            <p style="text-align: center;">
+                <ons-button ng-click="windowClick()">紙面で全文を見る</ons-button>
+            </p> 
+        </div>
+        
+    </ons-page>
